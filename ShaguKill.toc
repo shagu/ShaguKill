@@ -1,0 +1,6 @@
+## Interface: 11200 
+## Title: |cff33ffccShagu|cffffffffKill
+## Author: Eric (Shagu) Mauser, 2016
+## Notes: Shows remaining kills or ep-giving events to next levelup.
+## Version: 1.0
+ShaguKill.lua
