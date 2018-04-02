@@ -3,7 +3,7 @@
 Displays the count of remaining kills or other Exp-giving events that are required to gain the next levelup.
 
 
-![preview](http://shagu.org/shagucollection/img/ShaguKill.jpg)
+![screenshot](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguKill/screenshot.jpg)
 
 ## Installation
 1. Download **[Latest Version](https://github.com/shagu/ShaguKill/archive/master.zip)**
